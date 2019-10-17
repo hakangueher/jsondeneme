@@ -1,16 +1,12 @@
 {
   "posts": [
-    { "id": 1, "Hakan": "Post 1" },
-    { "id": 2, "Diaby": "Post 1" },
-    { "id": 3, "Nkoudou": "Post 1" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
   }
 }
-
 
