@@ -1,6 +1,14 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "hakan guher",
-  "completed": false
+  "posts": [
+    { "id": 1, "Hakan": "Post 1" },
+    { "id": 2, "Diaby": "Post 2" },
+    { "id": 3, "Nkoudou": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
