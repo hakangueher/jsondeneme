@@ -1,7 +1,7 @@
 {
   "tursysunited": [
     { "name": "murat", "surname": "kokten", "age": 44, "height": 186, "weight": 84, "gender": "male"   },
-    { "name": "mohammed", "surname": "mehjazy", "age": 29, "height": 168 , "weight": 70 , "gender": "male" },
+    { "name": "mohammed", "surname": "mehjazy", "age": 29, "height": 172 , "weight": 70 , "gender": "male" },
     { "name": "ozgur ", "surname": "tekbicak", "age": 40, "height": 168, "weight":  70, "gender": "male"  }  ,
     { "name": "yilmaz", "surname": "onaran", "age": 23, "height": 168, "weight": 52, "gender": "male"  }  ,
     { "name": "hakan", "surname": "guher", "age": 24, "height": 184, "weight": 77, "gender": "male"  }  ,
