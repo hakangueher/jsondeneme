@@ -3,9 +3,9 @@
     { "name": "murat", "age": 44, "height": 186, "weight": 84, "gender": "male"   },
     { "name": "muhammed", "age": 29, "height": 168 , "weight": 70 , "gender": "male" },
     { "name": "ozgur ", "age": 40, "height": 168, "weight":  70, "gender": "male"  }  ,
-    { "name": "jilmaz", "age": 23, "height": 168, "weight": 60, "gender": "male"  }  ,
-    { "name": "hakan", "age": 24, "height": 184, "weight": 74, "gender": "male"  }  ,
-    { "name": "emrah", "age": 36, "height": 175, "weight": 78, "gender": "male"  }  ,
+    { "name": "jilmaz", "age": 23, "height": 168, "weight": 52, "gender": "male"  }  ,
+    { "name": "hakan", "age": 24, "height": 184, "weight": 77, "gender": "male"  }  ,
+    { "name": "emrah", "age": 36, "height": 175, "weight": 71, "gender": "male"  }  ,
     { "name": "erkin", "age": 30, "height": 173, "weight": 68, "gender": "male"  }  ,
     { "name": "sertan", "age": 37, "height": 183, "weight": 88, "gender": "male"  }  ,
     { "name": "adem", "age": 27, "height": 178, "weight": 80, "gender": "male"  }  ,
@@ -14,9 +14,9 @@
     { "name": "oguzhan", "age": 24, "height": 178, "weight": 84, "gender": "male"  },
     { "name": "vugar", "age": 35, "height": 175, "weight": 84, "gender": "male"  }  ,
     { "name": "cumali", "age": 24, "height": 178, "weight": 74, "gender": "male"  }  ,
-    { "name": "aysegul", "age": 32, "height": 165, "weight": 58, "gender": "female"  }  ,
+    { "name": "aysegul", "age": 32, "height": 160, "weight": 58, "gender": "female"  }  ,
     { "name": "serkan", "age": 32, "height": 177, "weight": 84, "gender": "male"  } ,
-    { "name": "emre", "age": 32, "height": 165, "weight": 65, "gender": "male"  } , 
+    { "name": "emre", "age": 29, "height": 165, "weight": 65, "gender": "male"  } , 
     { "name": "esra", "age": 45, "height": 163, "weight": 55, "gender": "female"  }
 
   ]
